@@ -1,0 +1,92 @@
++Task 2:
+Dataset0 Classification Accuracy: 90%
+Dataset0 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            68.50           0.00           2.50          27.00           2.00
+    triangle:             0.50          99.00           0.50           0.00           0.00
+        disk:             0.00           0.00         100.00           0.00           0.00
+        oval:            15.00           0.00           1.00          84.00           0.00
+        star:             0.00           1.00           0.00           0.00          99.00
+
+Dataset20 Classification Accuracy: 76%
+Dataset20 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            47.50           3.00          17.50          23.50           8.50
+    triangle:             2.00          85.00          12.50           0.50           0.00
+        disk:             0.50           0.00          99.50           0.00           0.00
+        oval:            25.50           0.50           8.50          63.00           2.50
+        star:             4.00           1.00           4.50           1.00          89.50
+
+Dataset50 Classification Accuracy: 70%
+Dataset50 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            50.00          11.50          10.50          13.50          14.50
+    triangle:             1.50          89.50           8.00           0.00           1.00
+        disk:             2.50           2.50          89.50           1.50           4.00
+        oval:            41.00           0.00          11.00          39.00           9.00
+        star:             6.50           2.00           5.50           2.00          84.00
+
+Dataset80 Classification Accuracy: 62%
+Dataset80 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            69.00           3.00          10.50           9.50           8.00
+    triangle:            11.50          81.00           6.00           0.00           1.50
+        disk:            13.00           2.00          82.00           1.00           2.00
+        oval:            67.00           1.00          10.50          16.00           5.50
+        star:            25.00           1.50           7.00           1.00          65.50
+
++Task 3:
+Noise Classification Accuracy: 91.7%
+Noise Confusion Matrix:
+                             0             20             50             80
+           0:            99.90           0.10           0.00           0.00
+          20:             0.00          91.20           7.20           1.60
+          50:             0.00           1.50          75.60          22.90
+          80:             0.00           0.00           0.70          99.30
+
+Dataset0 Classification Accuracy: 89.1891891891892%
+Dataset0 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            78.00           0.00           0.00          20.00           2.00
+    triangle:             0.00          98.00           0.00           0.00           2.00
+        disk:             0.00           0.00          94.00           2.00           4.00
+        oval:            24.00           0.00           0.00          76.00           0.00
+        star:             0.00           0.00           0.00           0.00         100.00
+
+Dataset20 Classification Accuracy: 72.84482758620689%
+Dataset20 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            39.67          13.04           5.43          32.07           9.78
+    triangle:             0.00          97.80           2.20           0.00           0.00
+        disk:             4.69           9.38          82.81           1.04           2.08
+        oval:            30.77           0.00           1.65          59.89           7.69
+        star:            11.70           2.66           2.13           0.00          83.51
+
+Dataset50 Classification Accuracy: 69.22155688622755%
+Dataset50 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            28.50           5.00          12.50          29.00           9.50
+    triangle:             3.00          67.50           9.00           1.50           1.00
+        disk:             7.00           3.50          68.50           9.00           1.50
+        oval:             8.00           0.00           5.50          63.00           3.00
+        star:             6.53           2.01           4.02           8.04          61.81
+
+Dataset80 Classification Accuracy: 63.570274636510504%
+Dataset80 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            28.74           0.79          16.93          43.70           9.84
+    triangle:            16.05          62.55           7.82           2.88          10.70
+        disk:             7.91           0.00          75.89          11.86           4.35
+        oval:            13.39           0.00           5.44          79.08           2.09
+        star:            11.65           3.21           6.83           5.62          72.69
+
+
++Task 4:
+Dataset50 Classification Accuracy: 84%
+Dataset50 Confusion Matrix:
+                      rectangle       triangle           disk           oval           star
+   rectangle:            72.00           1.00           4.00          17.00           6.00
+    triangle:             1.00          98.50           0.50           0.00           0.00
+        disk:             0.00           0.00          99.50           0.00           0.50
+        oval:            40.50           0.00           4.00          54.50           1.00
+        star:             0.00           0.50           0.00           0.50          99.00
